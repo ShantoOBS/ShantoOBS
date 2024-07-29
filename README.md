@@ -7,6 +7,8 @@
 
 <h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
 
+<\br>
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ShantoOBS.ShantoOBS" />
 
 
