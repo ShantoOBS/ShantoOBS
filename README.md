@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **SQL**
 
+- 👨‍💻 All of my projects are available at [https://github.com/ShantoOBS](https://github.com/ShantoOBS)
+
 - 📝 I regularly write articles on [leet-code](leet-code)
 
 - 💬 Ask me about **DSA**
