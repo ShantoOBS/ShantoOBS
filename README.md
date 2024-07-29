@@ -15,11 +15,11 @@
 
 - 📫 How to reach me roys22127@gmail.com
 
-- ⚡ Fun fact Code is Fun
+- ⚡ Fun fact I am Funny
 
 
 
-
+<img align="right" alt="coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400" >
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
