@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantoobs&label=Profile%20views&color=0e75b6&style=flat" alt="shantoobs" /> </p>
 
-- 🔭 I’m currently working on **Interview_DS_Algorithm and SQL 50L**
+- 🔭 I’m currently working on Interview_DS_Algorithm and SQL 50L
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning SQL
 
-- 🤝 I’m looking for help with **on open source project**
+- 🤝 I’m looking to collaborate on open source project
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShantoOBS](https://github.com/ShantoOBS)
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about DSA
 
-- 📫 How to reach me **roys22127@gmail.com**
+- 📫 How to reach me roys22127@gmail.com
 
-- ⚡ Fun fact **Code is Fun**
+- ⚡ Fun fact Code is Fun
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
