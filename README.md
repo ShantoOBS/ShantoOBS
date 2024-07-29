@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShantoOBS](https://github.com/ShantoOBS)
+- 🤝 I’m looking for help with **on open source project**
 
-- 📝 I regularly write articles on [leet-code](leet-code)
+- 👨‍💻 All of my projects are available at [https://github.com/ShantoOBS](https://github.com/ShantoOBS)
 
 - 💬 Ask me about **DSA**
 
