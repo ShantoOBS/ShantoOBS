@@ -1,12 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shanta+Shil!;" />
 </h1>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ShantoOBS.ShantoOBS" />
+
 
 <h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ShantoOBS.ShantoOBS" />
 
 
 - 🔭 I’m currently working on Interview_DS_Algorithm and SQL 50   <img align="right" alt="coding" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" >
