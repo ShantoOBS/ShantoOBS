@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shanto Shil</h1>
-<h3 align="center">A passionate Competitive Programming from Bangladesh</h3>
+<h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantoobs&label=Profile%20views&color=0e75b6&style=flat" alt="shantoobs" /> </p>
 
 - 🔭 I’m currently working on **Interview_DS_Algorithm and SQL 50L**
 
+- 🌱 I’m currently learning **SQL**
+
 - 📝 I regularly write articles on [leet-code](leet-code)
+
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **roys22127@gmail.com**
 
