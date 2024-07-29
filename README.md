@@ -3,14 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantoobs&label=Profile%20views&color=0e75b6&style=flat" alt="shantoobs" /> </p>
 
-- 🔭 I’m currently working on Interview_DS_Algorithm and SQL 50
+- 🔭 I’m currently working on Interview_DS_Algorithm and SQL 50   <img align="right" alt="coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400" >
 
 - 🌱 I’m currently learning Python, SQL and Problem Solving
 
-  - <img align="right" alt="coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400" >
-
 - 🤝 I’m looking to collaborate on open source project
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShantoOBS](https://github.com/ShantoOBS)
 
