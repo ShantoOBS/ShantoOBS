@@ -26,7 +26,8 @@
 
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
-<br/>
+
+
 <h3 align="left">✅ Programming Languages</h3>
 
 <table align="left">
@@ -85,7 +86,7 @@
 
 
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 
 <h3 align="left">✅ Problem Solving Online Judge</h3>
