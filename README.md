@@ -322,7 +322,7 @@
   <tr>
        <td align="center" style="padding: 10px;">
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXw1e_BUF94tqvmJWuXqHzbCG-nP0ONdK4rA&s" width="40" height="40"/>
       </a>
       <br/>
       <strong>VS Code</strong>
