@@ -40,7 +40,7 @@
 <div align="left">
     
 <h3 align="left">✅ Programming Languages</h3>
-<br/>
+
 
 <table align="left">
   <tr>
@@ -99,6 +99,8 @@
 
  <br/><br/><br/>
 
+<div align="left">
+    
 <h3 align="left">✅ Problem Solving Online Judge</h3>
 <table>
   <tr>
@@ -146,7 +148,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 
 <hr/>
 
