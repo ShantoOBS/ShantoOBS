@@ -277,6 +277,30 @@
 
 <br /><br /><br /><br/>
 
+
+<h3 align="left">✅ Devops</h3>
+
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>AWS</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Docker</strong>
+    </td>
+  </tr>
+</table>
+
+<br /><br /><br /><br/><br/>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
