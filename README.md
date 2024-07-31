@@ -314,7 +314,7 @@
   </tr>
 </table>
 
-<br /><br /><br /><br/><br/>
+<br /><br /><br /><br/>
 
 <h3 align="left">✅ Software & Tools</h3>
 
@@ -344,7 +344,7 @@
   </tr>
 </table>
 
-<br /><br /><br /><br/><br/>
+<br /><br /><br /><br/>
 
 <hr/>
 
