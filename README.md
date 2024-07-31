@@ -119,6 +119,54 @@
 </p>
 
 
+<h3 align="left">✅ Problem Solving Online Judge</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://codeforces.com/profile/roys22127" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforce" height="40" width="40" />
+      </a>
+      <br />
+      Codeforces
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/roys22127/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leet Code" height="40" width="40" />
+      </a>
+      <br />
+      LeetCode
+    </td>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/roys2hca7/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="45" width="45" />
+      </a>
+      <br />
+      GeeksforGeeks
+    </td>
+    <td align="center">
+      <a href="https://lightoj.com/user/roys22127" target="blank">
+        <img src="https://academichelp.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/06/lightoj.jpg.webp" alt="lightoj" height="30" width="40" />
+      </a>
+      <br />
+      LightOJ
+    </td>
+    <td align="center">
+      <a href="https://cses.fi/user/230850" target="blank">
+        <img src="ShantoOBS/cses.jpeg" alt="CSES" height="40" width="40" />
+      </a>
+      <br />
+      CSES
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/roys22127" target="blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
+      </a>
+      <br />
+      CodeChef
+    </td>
+  </tr>
+</table>
+
 
 <hr/>
 
