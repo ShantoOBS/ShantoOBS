@@ -321,6 +321,13 @@
 <table align="left">
   <tr>
      <td align="center" style="padding: 10px;">
+      <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>GitHub</strong>
+    </td> 
+     <td align="center" style="padding: 10px;">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
       </a>
