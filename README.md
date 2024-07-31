@@ -145,8 +145,6 @@
 </table>
 
 
-<br /><br />
-
 <h3 align="left">✅ Frontend Development</h3>
 
 <table align="left">
@@ -182,7 +180,7 @@
   </tr>
 </table>
 
-
+<br /><br />
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
