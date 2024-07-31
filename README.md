@@ -39,6 +39,7 @@
 
 
 <h3 align="left">✅ Programming Languages</h3>
+<br/>
 
 <table align="left">
   <tr>
@@ -95,7 +96,7 @@
 
 
 
-<br/>
+ <br/><br/><br/>
 
 <h3 align="left">✅ Problem Solving Online Judge</h3>
 <table>
