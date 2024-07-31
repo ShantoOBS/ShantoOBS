@@ -350,7 +350,7 @@
     </td> 
     <td align="center" style="padding: 10px;">
       <a href="http://www.codeblocks.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/code_blocks/code_blocks-icon.svg" alt="Code::Blocks" width="40" height="40"/>
+        <img src="https://w1.pngwing.com/pngs/84/803/png-transparent-codeblocks-plastic-integrated-development-environment-visual-studio-code-source-code-exe-sourceforge-installation-free-and-opensource-software-thumbnail.png" alt="Code::Blocks" width="40" height="40"/>
       </a>
       <br/>
       <strong>Code::Blocks</strong>
