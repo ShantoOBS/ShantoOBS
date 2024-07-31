@@ -350,7 +350,7 @@
     </td> 
     <td align="center" style="padding: 10px;">
       <a href="http://www.codeblocks.org/" target="_blank" rel="noreferrer">
-        <img src="https://w1.pngwing.com/pngs/84/803/png-transparent-codeblocks-plastic-integrated-development-environment-visual-studio-code-source-code-exe-sourceforge-installation-free-and-opensource-software-thumbnail.png" alt="Code::Blocks" width="40" height="40"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7MKhgZWe_kv4VltcmA7lc5P9V0rzovlKSqGBaRPyx5yeY5ErmTkJRBFqo-BqUhEwwH9M&usqp=CAU" alt="Code::Blocks" width="40" height="40"/>
       </a>
       <br/>
       <strong>Code::Blocks</strong>
