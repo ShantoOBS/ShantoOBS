@@ -187,15 +187,14 @@
 
 <table align="left">
   <tr>
-     <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
       </a>
       <br/>
       <strong>Node.js</strong>
     </td>
-
-       <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
       </a>
@@ -204,6 +203,7 @@
     </td>
   </tr>
 </table>
+
 
 <br /><br /><br /><br /><br />
 
