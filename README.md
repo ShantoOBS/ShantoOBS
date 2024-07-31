@@ -145,9 +145,9 @@
 </table>
 
 
-<br /><br /><br /><br />
+<br /><br />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">✅ Frontend Development</h3>
 
 <table align="left">
   <tr>
