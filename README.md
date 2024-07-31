@@ -355,15 +355,6 @@
       <br/>
       <strong>Figma</strong>
     </td>
-
-        <td align="center" style="padding: 10px;">
-      <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/code_blocks/code_blocks-icon.svg" alt="Code::Blocks" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Code::Blocks</strong>
-    </td>
-    
     <td align="center" style="padding: 10px;">
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
