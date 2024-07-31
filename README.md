@@ -37,86 +37,63 @@
   justify-content: space-between;" > <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<h3 align="left">✅ Problem Solving Online Judge</h3>
-<p align="left" >
 
-<a href="https://codeforces.com/profile/roys22127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforce" height="40" width="40" /></a>
+<h3 align="left">✅ Programming Languages</h3>
 
-<a href="https://leetcode.com/u/roys22127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leet Code" height="40" width="40" /></a>
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><br/>
+        <span>C</span>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/><br/>
+        <span>C++</span>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/><br/>
+        <span>C#</span>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/><br/>
+        <span>Go</span>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><br/>
+        <span>Java</span>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br/>
+        <span>JavaScript</span>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/><br/>
+        <span>PHP</span>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br/>
+        <span>Python</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-<a href="https://www.geeksforgeeks.org/user/roys2hca7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="45" width="45" /></a>
-
-<a href="https://lightoj.com/user/roys22127" target="blank"><img align="center" src="https://academichelp.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/06/lightoj.jpg.webp" alt="lightoj" height="30" width="40" /></a>
-
-<a href="https://cses.fi/user/230850" target="blank"><img align="center" src="ShantoOBS/cses.jpeg" alt="Leet Code" height="40" width="40" /></a>
-
-<a href="https://www.codechef.com/users/roys22127" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
-
-
-</p>
-
-
-
-<h3 align="left">✅ Problem Solving Online Judge</h3>
-<p align="left">
-
-  <a href="https://codeforces.com/profile/roys22127" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforce" height="40" width="40" />
-  </a>
-
-  <a href="https://leetcode.com/u/roys22127/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leet Code" height="40" width="40" />
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/user/roys2hca7/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="45" width="45" />
-  </a>
-
-  <a href="https://lightoj.com/user/roys22127" target="blank">
-    <img align="center" src="https://academichelp.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/06/lightoj.jpg.webp" alt="lightoj" height="30" width="40" />
-  </a>
-
-  <a href="https://cses.fi/user/230850" target="blank">
-    <img align="center" src="ShantoOBS/cses.jpeg" alt="CSES" height="40" width="40" />
-  </a>
-
-  <a href="https://www.codechef.com/users/roys22127" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
-  </a>
-
-</p>
-
-
-
-<h3 align="left">✅ Problem Solving Online Judge</h3>
-<p align="left">
-
-  <a href="https://codeforces.com/profile/roys22127" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforce" height="40" width="40" style="margin-right: 100px;" />
-  </a>
-
-  <a href="https://leetcode.com/u/roys22127/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leet Code" height="40" width="40" style="margin-right: 100px;" />
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/user/roys2hca7/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="45" width="45" style="margin-right: 100px;" />
-  </a>
-
-  <a href="https://lightoj.com/user/roys22127" target="blank">
-    <img align="center" src="https://academichelp.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/06/lightoj.jpg.webp" alt="lightoj" height="30" width="40" style="margin-right: 100px;" />
-  </a>
-
-  <a href="https://cses.fi/user/230850" target="blank">
-    <img align="center" src="ShantoOBS/cses.jpeg" alt="CSES" height="40" width="40" style="margin-right: 100px;" />
-  </a>
-
-  <a href="https://www.codechef.com/users/roys22127" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" style="margin-right: 100px;" />
-  </a>
-
-</p>
 
 
 <h3 align="left">✅ Problem Solving Online Judge</h3>
