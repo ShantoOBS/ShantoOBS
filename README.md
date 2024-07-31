@@ -93,7 +93,7 @@
 </table>
 
 
-<br /><br /><br /><br />
+<br /><br /><br />
 
 
 <h3 align="left">✅ Problem Solving Online Judge</h3>
@@ -180,7 +180,7 @@
   </tr>
 </table>
 
-<br /><br /><br />
+<br /><br /><br /><br />
 
 
 <h3 align="left">✅ Backend Development</h3>
