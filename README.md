@@ -129,7 +129,7 @@
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://cses.fi/user/230850" target="_blank" rel="noreferrer">
-        <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xZN23_KFlnwSizVDtGeEPKKs21mvD-sYzG6cyGA7o2peu8t29eaXee7-2vMvxNgvnRw&usqp=CAU" alt="CSES" height="40" width="40"/>
+        <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240304161748/CSES-Problem-Set-Solutions-copy.webp" alt="CSES" height="40" width="40"/>
       </a>
       <br />
       <strong>CSES</strong>
