@@ -86,6 +86,68 @@
 
 
 
+<h3 align="left">✅ Programming Languages</h3>
+
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>C</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>C++</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>C#</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Go</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Java</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>PHP</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Python</strong>
+    </td>
+  </tr>
+</table>
 
 
 <br /><br /><br /><br />
