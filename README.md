@@ -329,7 +329,7 @@
     </td>
 
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <a href="https://github.com/ShantoOBS" target="_blank" rel="noreferrer">
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
       </a>
       <br/>
@@ -393,7 +393,6 @@
     </td>
   </tr>
 </table>
-
 
 
 <br /><br /><br /><br/>
