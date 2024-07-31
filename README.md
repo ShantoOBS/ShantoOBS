@@ -153,38 +153,52 @@
 
 
 <h3 align="left">✅ Problem Solving Online Judge</h3>
-
-<p align="left" style="display: flex; justify-content: space-between;">
-  <a href="https://codeforces.com/profile/roys22127" target="_blank" rel="noreferrer" style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"/><br/>
-    <span>Codeforces</span>
-  </a>
-  
-  <a href="https://leetcode.com/u/roys22127/" target="_blank" rel="noreferrer" style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/><br/>
-    <span>LeetCode</span>
-  </a>
-  
-  <a href="https://www.geeksforgeeks.org/user/roys2hca7/" target="_blank" rel="noreferrer" style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="45" height="45"/><br/>
-    <span>GeeksforGeeks</span>
-  </a>
-  
-  <a href="https://lightoj.com/user/roys22127" target="_blank" rel="noreferrer" style="text-align: center;">
-    <img src="https://academichelp.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/06/lightoj.jpg.webp" alt="LightOJ" width="40" height="40"/><br/>
-    <span>LightOJ</span>
-  </a>
-  
-  <a href="https://cses.fi/user/230850" target="_blank" rel="noreferrer" style="text-align: center;">
-    <img src="ShantoOBS/cses.jpeg" alt="CSES" width="40" height="40"/><br/>
-    <span>CSES</span>
-  </a>
-  
-  <a href="https://www.codechef.com/users/roys22127" target="_blank" rel="noreferrer" style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40" height="40"/><br/>
-    <span>CodeChef</span>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://codeforces.com/profile/roys22127" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40"/>
+      </a>
+      <br />
+      <strong>Codeforces</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://leetcode.com/u/roys22127/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
+      </a>
+      <br />
+      <strong>LeetCode</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.geeksforgeeks.org/user/roys2hca7/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="45" width="45"/>
+      </a>
+      <br />
+      <strong>GeeksforGeeks</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://lightoj.com/user/roys22127" target="_blank" rel="noreferrer">
+        <img src="https://academichelp.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/06/lightoj.jpg.webp" alt="LightOJ" height="30" width="40"/>
+      </a>
+      <br />
+      <strong>LightOJ</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://cses.fi/user/230850" target="_blank" rel="noreferrer">
+        <img src="ShantoOBS/cses.jpeg" alt="CSES" height="40" width="40"/>
+      </a>
+      <br />
+      <strong>CSES</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.codechef.com/users/roys22127" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
+      </a>
+      <br />
+      <strong>CodeChef</strong>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
