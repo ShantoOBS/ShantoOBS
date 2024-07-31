@@ -257,6 +257,13 @@
       <br/>
       <strong>MongoDB</strong>
     </td>
+       <td align="center" style="padding: 10px;">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>MySQL</strong>
+    </td> 
     <td align="center" style="padding: 10px;">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
@@ -264,17 +271,11 @@
       <br/>
       <strong>SQL Server</strong>
     </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>MySQL</strong>
-    </td>
+  
   </tr>
 </table>
 
-<br /><br /><br />
+<br /><br /><br /><br/>
 
 <hr/>
 
