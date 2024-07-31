@@ -298,8 +298,7 @@
     </td>
   </tr>
 </table>
-
-<br /><br /><br /><br/><br/>
+<br /><br /><br /><br/>
 
 <h3 align="left">✅ Framework</h3>
 
@@ -315,7 +314,7 @@
   </tr>
 </table>
 
-<br /><br /><br /><br/><br/><br/>
+<br /><br /><br /><br/><br/>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
