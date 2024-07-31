@@ -301,6 +301,21 @@
 
 <br /><br /><br /><br/><br/>
 
+<h3 align="left">✅ Framework</h3>
+
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>.NET</strong>
+    </td>
+  </tr>
+</table>
+
+<br /><br /><br /><br/><br/><br/>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
