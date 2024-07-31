@@ -180,7 +180,7 @@
   </tr>
 </table>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
