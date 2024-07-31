@@ -34,10 +34,9 @@
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-          </a>
-          <br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><br/>
         <strong>C</strong>
+        </a>
      
     </td>
     <td align="center" style="padding: 10px;">
