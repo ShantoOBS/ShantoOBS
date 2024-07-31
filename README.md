@@ -37,7 +37,62 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><br/>
         <strong>C</strong>
         </a>
-     
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/><br/>
+        <strong>C++</strong>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/><br/>
+        <strong>C#</strong>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/><br/>
+        <strong>Go</strong>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><br/>
+        <strong>Java</strong>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br/>
+        <strong>JavaScript</strong>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/><br/>
+        <strong>PHP</strong>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br/>
+        <strong>Python</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<h3 align="left">✅ Programming Languages</h3>
+
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><br/>
+        <strong>C</strong>
+      </a>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
