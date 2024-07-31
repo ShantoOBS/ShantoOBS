@@ -315,6 +315,37 @@
 </table>
 
 <br /><br /><br /><br/><br/>
+
+<h3 align="left">✅ Software & Tools</h3>
+
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Figma</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Illustrator</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Photoshop</strong>
+    </td>
+  </tr>
+</table>
+
+<br /><br /><br /><br/><br/>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
