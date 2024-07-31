@@ -25,14 +25,8 @@
 - ⚡ Fun fact I am Funny
 
 
-
-
-
 <h2 align="left">🛠️ Languages and Tools:</h2>
-
 <br/>
-    
-
 <h3 align="left">✅ Programming Languages</h3>
 
 <table align="left">
