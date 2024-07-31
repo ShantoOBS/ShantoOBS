@@ -320,23 +320,7 @@
 
 <table align="left">
   <tr>
-       <td align="center" style="padding: 10px;">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Git</strong>
-    </td>
-
-      <td align="center" style="padding: 10px;">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Git</strong>
-    </td>
-
-      <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
       </a>
@@ -345,12 +329,29 @@
     </td>
 
     <td align="center" style="padding: 10px;">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+      <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
       </a>
       <br/>
-      <strong>Git</strong>
-    </td> 
+      <strong>GitHub</strong>
+    </td>
+
+    <td align="center" style="padding: 10px;">
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>VS Code</strong>
+    </td>
+
+    <td align="center" style="padding: 10px;">
+      <a href="https://visualstudio.microsoft.com/vs/2022/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Visual Studio 2022</strong>
+    </td>
+
     <td align="center" style="padding: 10px;">
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
@@ -358,6 +359,7 @@
       <br/>
       <strong>Figma</strong>
     </td>
+
     <td align="center" style="padding: 10px;">
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
@@ -365,6 +367,7 @@
       <br/>
       <strong>Illustrator</strong>
     </td>
+
     <td align="center" style="padding: 10px;">
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
@@ -372,8 +375,25 @@
       <br/>
       <strong>Photoshop</strong>
     </td>
+
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/code_blocks/code_blocks-icon.svg" alt="Code::Blocks" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Code::Blocks</strong>
+    </td>
+
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server Management Studio" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>SSMS</strong>
+    </td>
   </tr>
 </table>
+
 
 <br /><br /><br /><br/>
 
