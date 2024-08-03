@@ -4,7 +4,7 @@
 </h1>
 
 
-<h2 align="center">A passionate Competitive Programmer from Bangladesh</h2>
+<h2 align="center">A Passionate Competitive Programmer from Bangladesh</h2>
 
  
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ShantoOBS.ShantoOBS" />
