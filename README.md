@@ -172,6 +172,14 @@
       <br/>
       <strong>Bootstrap</strong>
     </td>
+
+   <td align="center" style="padding: 10px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>JavaScript</strong>
+    </td>
     <td align="center" style="padding: 10px;">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -196,7 +204,13 @@
       <br/>
       <strong>Node.js</strong>
     </td>
-   
+    <td align="center" style="padding: 10px;">
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Express.js</strong>
+    </td>
   </tr>
 </table>
 
@@ -360,20 +374,7 @@
       <strong>Firebase</strong>
     </td>
       
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Illustrator</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Photoshop</strong>
-    </td>
+    
   </tr>
 </table>
 
