@@ -196,13 +196,7 @@
       <br/>
       <strong>Node.js</strong>
     </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Firebase</strong>
-    </td>
+   
   </tr>
 </table>
 
@@ -266,13 +260,7 @@
       <br/>
       <strong>MySQL</strong>
     </td> 
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>SQL Server</strong>
-    </td>
+ 
   
   </tr>
 </table>
@@ -364,6 +352,14 @@
       <br/>
       <strong>Figma</strong>
     </td>
+     <td align="center" style="padding: 10px;">
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Firebase</strong>
+    </td>
+      
     <td align="center" style="padding: 10px;">
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
