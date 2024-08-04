@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking to collaborate on open source project
 
-- 👨‍💻 All of my projects are available at https://github.com/ShantoOBS
+- 👨‍💻 All of my projects are available at here
 
 - 💬 Ask me about DSA
 
