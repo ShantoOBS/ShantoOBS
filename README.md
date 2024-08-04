@@ -27,7 +27,7 @@
 - ⚡ Fun fact I am Funny
 
 
-<h2 align="center">🛠️ Languages and Tools:</h2>
+<h2 align="left">🛠️ Languages and Tools:</h2>
 
 
 
