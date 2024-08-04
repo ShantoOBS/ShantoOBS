@@ -408,31 +408,49 @@
   </tr>
 </table>
 
-### Tools for CTF's
- 
-| Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
-|----------|----------|----------|----------|----------|
-|<img src="assets/meta.png" alt="msf" width="85" height="55" />|<img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|
+<br/><br/><br/><br/><br/>
 
-<!--
+<h3 align="left">✅ Tools for CTF's</h3>
 
-### It's not technology, but I use it. The section will be changed soon.:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
---> 
-</div>
-
----
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.metasploit.com" target="_blank" rel="noreferrer">
+        <img src="assets/meta.png" alt="Metasploit" width="85" height="55"/>
+      </a>
+      <br/>
+      <strong>Metasploit</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
+        <img src="assets/Wireshark_icon.svg.png" alt="Wireshark" width="55" height="55"/>
+      </a>
+      <br/>
+      <strong>Wireshark</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+        <img src="assets/burp.svg" alt="Burpsuite" width="85" height="55"/>
+      </a>
+      <br/>
+      <strong>Burpsuite</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://nc110.sourceforge.io" target="_blank" rel="noreferrer">
+        <img src="assets/netcat_logo_shadow.svg" alt="Netcat" width="55" height="55"/>
+      </a>
+      <br/>
+      <strong>Netcat</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://nmap.org" target="_blank" rel="noreferrer">
+        <img src="assets/nmap-logo.svg" alt="Nmap" width="55" height="55"/>
+      </a>
+      <br/>
+      <strong>Nmap</strong>
+    </td>
+  </tr>
+</table>
 
 
 
