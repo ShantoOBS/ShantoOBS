@@ -430,7 +430,7 @@
 
 
 
-</div>
+
 
 ---
 
@@ -452,9 +452,6 @@
  
 
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShantoOBS&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 
 
