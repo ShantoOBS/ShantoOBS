@@ -380,13 +380,33 @@
 
 <br /><br /><br /><br/>
 
+<h3 align="left">✅ Operating Systems</h3>
 
-### OS:
-
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>
+      </a>
+      <br/>
+      <strong>Linux</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>
+      </a>
+      <br/>
+      <strong>Ubuntu</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.kali.org" target="_blank" rel="noreferrer">
+        <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/>
+      </a>
+      <br/>
+      <strong>Kali Linux</strong>
+    </td>
+  </tr>
+</table>
 
 ### Tools for CTF's
  
