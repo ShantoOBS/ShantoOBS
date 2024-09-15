@@ -12,8 +12,6 @@
 
 
 - 🔭 I’m currently working on Interview_DS_Algorithm and SQL 50
-  ![image](https://github.com/user-attachments/assets/60f1f669-6ba4-4492-9738-c0c4b7723392)
-
   
 - 🌱 I’m currently learning Python, SQL and Problem Solving
 
