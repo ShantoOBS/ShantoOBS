@@ -11,8 +11,9 @@
  <br/>
 
 
-- 🔭 I’m currently working on Interview_DS_Algorithm and SQL 50   <img align="right" alt="coding" 
-https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966
+- 🔭 I’m currently working on Interview_DS_Algorithm and SQL 50
+  ![image](https://github.com/user-attachments/assets/60f1f669-6ba4-4492-9738-c0c4b7723392)
+
   
 - 🌱 I’m currently learning Python, SQL and Problem Solving
 
