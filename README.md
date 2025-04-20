@@ -51,20 +51,6 @@
       <strong>C++</strong>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>C#</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Go</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
       </a>
@@ -79,19 +65,13 @@
       <strong>JavaScript</strong>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
       </a>
       <br/>
-      <strong>PHP</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Python</strong>
-    </td>
+      <strong>MySQL</strong>
+    </td> 
+      
   </tr>
 </table>
 
@@ -181,145 +161,13 @@
       <br/>
       <strong>JavaScript</strong>
     </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>React</strong>
-    </td>
-  </tr>
-</table>
-
-<br /><br /><br /><br />
-
-
-<h3 align="left">✅ Backend Development</h3>
-
-<table align="left">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Node.js</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Express.js</strong>
-    </td>
-  </tr>
-</table>
-
-
-<br /><br /><br /><br />
-
-
-<h3 align="left">✅ App Development</h3>
-
-
-<table align="left">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Android</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Dart</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Flutter</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Kotlin</strong>
-    </td>
-  </tr>
-</table>
-
-<br /><br /><br /><br />
-
-<h3 align="left">✅ Database</h3>
-
-<table align="left">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>MongoDB</strong>
-    </td>
-       <td align="center" style="padding: 10px;">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>MySQL</strong>
-    </td> 
- 
   
   </tr>
 </table>
 
-<br /><br /><br /><br/>
 
+<br/><br/><br/><br/><br/>
 
-<h3 align="left">✅ Devops</h3>
-
-<table align="left">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>AWS</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Docker</strong>
-    </td>
-  </tr>
-</table>
-<br /><br /><br /><br/>
-
-<h3 align="left">✅ Framework</h3>
-
-<table align="left">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>.NET</strong>
-    </td>
-  </tr>
-</table>
-
-<br /><br /><br /><br/>
 
 <h3 align="left">✅ Software & Tools</h3>
 
@@ -367,19 +215,15 @@
       <br/>
       <strong>Figma</strong>
     </td>
-     <td align="center" style="padding: 10px;">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Firebase</strong>
-    </td>
+
       
     
   </tr>
 </table>
 
-<br /><br /><br /><br/>
+
+<br/><br/><br/><br/><br/>
+
 
 <h3 align="left">✅ Operating Systems</h3>
 
@@ -405,22 +249,6 @@
       </a>
       <br/>
       <strong>Kali Linux</strong>
-    </td>
-  </tr>
-</table>
-
-<br/><br/><br/><br/><br/>
-
-<h3 align="left">✅ Tools for CTF's</h3>
-
-<table align="left">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://nmap.org" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkleicJbALSPyDvWc0Gij3XFDwnVdGRdacfg&s" alt="Nmap" width="50" height="50"/>
-      </a>
-      <br/>
-      <strong>Nmap</strong>
     </td>
   </tr>
 </table>
