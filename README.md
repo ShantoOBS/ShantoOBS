@@ -51,6 +51,20 @@
       <strong>C++</strong>
     </td>
     <td align="center" style="padding: 10px;">
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>C#</strong>
+    </td>
+   <td align="center" style="padding: 10px;">
+      <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Go</strong>
+    </td> 
+    <td align="center" style="padding: 10px;">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
       </a>
@@ -65,13 +79,12 @@
       <strong>JavaScript</strong>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
       </a>
       <br/>
-      <strong>MySQL</strong>
-    </td> 
-      
+      <strong>Python</strong>
+    </td>
   </tr>
 </table>
 
@@ -146,6 +159,13 @@
       <br/>
       <strong>CSS</strong>
     </td>
+          <td align="center" style="padding: 10px;">
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Tailwind</strong>
+    </td>
     <td align="center" style="padding: 10px;">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -153,7 +173,6 @@
       <br/>
       <strong>Bootstrap</strong>
     </td>
-
    <td align="center" style="padding: 10px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -161,12 +180,94 @@
       <br/>
       <strong>JavaScript</strong>
     </td>
-  
+    <td align="center" style="padding: 10px;">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>React</strong>
+    </td>
+  </tr>
+</table>
+
+<br /><br /><br /><br />
+
+
+<h3 align="left">✅ Backend Development</h3>
+
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Node.js</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Express.js</strong>
+    </td>
   </tr>
 </table>
 
 
-<br/><br/><br/><br/><br/>
+<br /><br /><br /><br />
+
+
+
+
+
+<h3 align="left">✅ Database</h3>
+
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>MongoDB</strong>
+    </td>
+       <td align="center" style="padding: 10px;">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>MySQL</strong>
+    </td> 
+ 
+  
+  </tr>
+</table>
+
+<br /><br /><br /><br/>
+
+
+<h3 align="left">✅ Devops</h3>
+
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>AWS</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Docker</strong>
+    </td>
+  </tr>
+</table>
+<br /><br /><br /><br/>
 
 
 <h3 align="left">✅ Software & Tools</h3>
@@ -215,15 +316,19 @@
       <br/>
       <strong>Figma</strong>
     </td>
-
+     <td align="center" style="padding: 10px;">
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Firebase</strong>
+    </td>
       
     
   </tr>
 </table>
 
-
-<br/><br/><br/><br/><br/>
-
+<br /><br /><br /><br/>
 
 <h3 align="left">✅ Operating Systems</h3>
 
@@ -253,9 +358,8 @@
   </tr>
 </table>
 
-
-
 <br/><br/><br/><br/><br/>
+
 
 
 
