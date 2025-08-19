@@ -25,8 +25,7 @@
 
 - 📫 How to reach me roys22127@gmail.com
 
-- ⚡ Fun fact I am Funny
-
+- ⚡ I’m a music lover — especially when coding. 🎶💻😅
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
