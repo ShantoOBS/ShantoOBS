@@ -78,6 +78,13 @@
       <strong>JavaScript</strong>
     </td>
     <td align="center" style="padding: 10px;">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="Typescript" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Typescript</strong>
+    </td>
+     <td align="center" style="padding: 10px;">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
       </a>
