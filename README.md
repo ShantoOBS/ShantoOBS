@@ -147,7 +147,7 @@
 </table>
 
 
-<h3 align="left">✅ Frontend Development</h3>
+<h3 align="left">✅ Web Development</h3>
 
 <table align="left">
   <tr>
@@ -174,13 +174,13 @@
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+        <img src="https://localo.com/assets/img/definitions/what-is-bootstrap.webp" alt="Bootstrap" width="40" height="40"/>
       </a>
       <br/>
       <strong>Bootstrap</strong>
     </td>
    <td align="center" style="padding: 10px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <a href="" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
       </a>
       <br/>
@@ -193,32 +193,23 @@
       <br/>
       <strong>React</strong>
     </td>
-  </tr>
-</table>
-
-<br /><br /><br /><br />
-
-
-<h3 align="left">✅ Backend Development</h3>
-
-<table align="left">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-      </a>
-      <br/>
-      <strong>Node.js</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
+     <td align="center" style="padding: 10px;">
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+        <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" width="40" height="40"/>
       </a>
       <br/>
       <strong>Express.js</strong>
-    </td>
+    </td>  
+    <td align="center" style="padding: 10px;">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://globosoft.in/images/nodejs.jpg" alt="Node.js" width="40" height="40"/>
+      </a>
+      <br/>
+      <strong>Node.js</strong>
+    </td> 
   </tr>
 </table>
+
 
 
 <br /><br /><br /><br />
