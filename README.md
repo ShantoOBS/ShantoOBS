@@ -22,7 +22,7 @@
 
 
 
-<br/><br/><br/>
+
 
 ---
 
@@ -242,6 +242,11 @@
 
 <table>
 <tr>
+
+<td align="center">
+<img src="https://cursor.sh/apple-touch-icon.png" width="40"/>
+<br><b>Cursor</b>
+</td>
 
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
