@@ -34,6 +34,5 @@ Currently focused on improving **problem-solving skills**, building real-world b
 🌱 Learning    →  System Design • Backend Architecture • DevOps & Cloud
 🧠 Practicing  →  Competitive Programming (Codeforces, LeetCode, CodeChef)
 🏆 Achievements→  ICPC Regionalist 2024
-📚 Research    →  ML & Deep Learning in Cybersecurity
 ⚡ Fun fact    →  I love solving problems under pressure (but still improving contest mindset 😄)
 
