@@ -20,7 +20,7 @@
 </div>
 
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=800&height=60&duration=4000&lines=Hey+there!+I'm+Shanta+Shil+👋;Backend+Engineer+%7C+DevOps+%26+Cloud+Enthusiast;" />
+ Hey there! I'm Shanta Shil 👋
 </h1>
 
 ## 👨‍💻 About Me
