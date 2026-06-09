@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Backend-focused Software Engineer passionate about building scalable applications  
+- 💻 Backend-focused Software Engineer passionate about building **Scalable and High-performance** Applicat
 - 🧠 Strong foundation in **Data Structures, Algorithms, Database Design & System Architecture**  
 - ⚡ Experienced with **Node.js, NestJS, Express.js, Next.js, FastAPI**  
 - 🏆 Competitive Programmer (2000+ solved problems across platforms)  
@@ -42,13 +42,12 @@
   <tr>
     <td>
 
-## 👨‍💻 About Me
+## Focus
 
-- 💻 Backend-focused Software Engineer passionate about building scalable and high-performance applications  
-- 🧠 Strong foundation in **Data Structures, Algorithms, Database Design & System Architecture**  
-- ⚡ Experienced with **Node.js, NestJS, Express.js, Next.js, FastAPI**  
-- 🏆 Competitive Programmer (2000+ solved problems across platforms)  
-- 📍 Dhaka, Bangladesh 🇧🇩  
+- 🔥 Backend Engineering & Clean Architecture.  
+- 📈 Performance optimization & scalable APIs.  
+- 🧩 Real-world product development.
+- 🤝 Collaboration on Software Development & AI-related research.  
 
   </td>
   <td>
