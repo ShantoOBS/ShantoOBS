@@ -22,13 +22,13 @@
 
 ## 🎯 Focus
 
-- 🔥 Backend Engineering & Clean Architecture .  
-- 📈 Performance optimization & scalable APIs.  
-- 🧩 Real-world product development, turning ideas into applications.
-- 🤝 Collaboration on Software Development & AI-related research to build impactful solutions.  
+- 🔥 Backend Engineering and Clean Architecture .  
+- 📈 Performance optimization and scalable API design .  
+- 🧩 Building real-world, production-ready applications .
+- 🤝 Collaborative software development & AI research for impactful solutions .  
 
   </td>
-  <td>
+  <td align="right">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200"/>
   </td>
   </tr>
