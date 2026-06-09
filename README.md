@@ -24,12 +24,12 @@
 
 - 🔥 Backend Engineering & Clean Architecture .  
 - 📈 Performance optimization & scalable APIs.  
-- 🧩 Passionate about real-world product development, turning ideas into applications.
-- 🤝 Collaboration on Software Development & AI-related research.  
+- 🧩 Real-world product development, turning ideas into applications.
+- 🤝 Collaboration on Software Development & AI-related research to build impactful solutions.  
 
   </td>
   <td>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250"/>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200"/>
   </td>
   </tr>
 </table>
