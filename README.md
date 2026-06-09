@@ -43,7 +43,28 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,dart,python,nodejs,express,nestjs,fastapi,react,nextjs,flutter,mysql,postgres,mongodb,firebase,git,linux" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/roys22127/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://codeforces.com/profile/roys22127">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=roys22127&theme=github_dark" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/roys22127?theme=dark&font=Baloo&ext=heatmap" width="49%" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+
 
  <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250"/>
@@ -64,6 +85,10 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShantoOBS.ShantoOBS" />
 </div>
+
+
+
+
 
 
  <div align="left">
