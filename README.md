@@ -1,7 +1,9 @@
-<img width="2172" height="724" alt="01a54197-e14f-4542-9730-9ffe82f19549" src="https://github.com/user-attachments/assets/bbe883bf-c652-4d5f-b350-7b86ee72dfe3" />
+ <img width="2172" height="724" alt="01a54197-e14f-4542-9730-9ffe82f19549" src="https://github.com/user-attachments/assets/bbe883bf-c652-4d5f-b350-7b86ee72dfe3" />
 
 
-
+ <div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/ShantoOBS" target="_blank">
@@ -19,7 +21,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShantoOBS.ShantoOBS" />
 </div>
 
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250"/>
 
  
 
@@ -30,9 +31,28 @@
 
 ## 👨‍💻 About Me
 
+- 💻 Backend-focused Software Engineer passionate about building scalable applications  
+- 🧠 Strong foundation in **Data Structures, Algorithms, Database Design & System Architecture**  
+- ⚡ Experienced with **Node.js, NestJS, Express.js, Next.js, FastAPI**  
+- 🏆 Competitive Programmer (2000+ solved problems across platforms)  
+- 📍 Dhaka, Bangladesh 🇧🇩
+  
+
+<table>
+  <tr>
+    <td>
+
+## 👨‍💻 About Me
+
 - 💻 Backend-focused Software Engineer passionate about building scalable and high-performance applications  
 - 🧠 Strong foundation in **Data Structures, Algorithms, Database Design & System Architecture**  
 - ⚡ Experienced with **Node.js, NestJS, Express.js, Next.js, FastAPI**  
 - 🏆 Competitive Programmer (2000+ solved problems across platforms)  
 - 📍 Dhaka, Bangladesh 🇧🇩  
 
+  </td>
+  <td>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250"/>
+  </td>
+  </tr>
+</table>
