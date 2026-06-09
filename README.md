@@ -48,12 +48,15 @@
 ## 🏆 Competitive Programming
 
 <p align="center">
+ 
+ <a href="https://codeforces.com/profile/roys22127">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces" />
+  </a>
+ 
   <a href="https://leetcode.com/u/roys22127/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://codeforces.com/profile/roys22127">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces" />
-  </a>
+  
 </p>
 
 <p align="center">
