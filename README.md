@@ -1,17 +1,15 @@
-<img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7" src="https://github.com/user-attachments/assets/483eb88f-f4e6-40cc-b4a6-5085d374edd9" />
-
- <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
- 
-</div> 
- 
-
-<h1 align="right">
+<h1 align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShantoOBS.ShantoOBS" /> 👋 Hey there! I'm Shanta Shil  
 </h1>
 
----
+<img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7" src="https://github.com/user-attachments/assets/483eb88f-f4e6-40cc-b4a6-5085d374edd9" />
+
+
+ 
+
+
+
+
  
 
 ## 👨‍💻 About Me
@@ -22,6 +20,7 @@
 - 🏆 Competitive Programmer (2000+ solved problems across platforms)  
 - 📍 Dhaka, Bangladesh 🇧🇩
   
+---
 
 <table>
   <tr>
@@ -68,3 +67,10 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShantoOBS.ShantoOBS" />
 </div>
+
+
+ <div align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+ 
+</div> 
