@@ -5,12 +5,6 @@
 <img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7" src="https://github.com/user-attachments/assets/483eb88f-f4e6-40cc-b4a6-5085d374edd9" />
 
 
- 
-
-
-
-
- 
 
 ## 👨‍💻 About Me
 
@@ -28,7 +22,7 @@
 
 ## Focus
 
-- 🔥 Backend Engineering & Clean Architecture.  
+- 🔥 Backend Engineering & Clean Architecture Backend Engineering & Clean Architecture.  
 - 📈 Performance optimization & scalable APIs.  
 - 🧩 Real-world product development.
 - 🤝 Collaboration on Software Development & AI-related research.  
