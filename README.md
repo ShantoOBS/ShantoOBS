@@ -25,6 +25,7 @@
 - 🔥 Backend Engineering & Clean Architecture .  
 - 📈 Performance optimization & scalable APIs.  
 - 🧩 Real-world product development.
+- 🧩 Passionate about real-world product development, turning ideas into complete working applications.
 - 🤝 Collaboration on Software Development & AI-related research.  
 
   </td>
