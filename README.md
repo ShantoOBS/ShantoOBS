@@ -14,7 +14,8 @@
 - 🏆 Competitive Programmer (2000+ solved problems across platforms)  
 - 📍 Dhaka, Bangladesh 🇧🇩
   
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <table>
   <tr>
@@ -34,7 +35,7 @@
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 👨‍💻 Tech Stack
 
@@ -70,3 +71,5 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
  
 </div> 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1e90ff,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
