@@ -20,9 +20,9 @@
   <tr>
     <td>
 
-## Focus
+## 🎯 Focus
 
-- 🔥 Backend Engineering & Clean Architecture Backend Engineering & Clean Architecture.  
+- 🔥 Backend Engineering & Clean Architecture .  
 - 📈 Performance optimization & scalable APIs.  
 - 🧩 Real-world product development.
 - 🤝 Collaboration on Software Development & AI-related research.  
