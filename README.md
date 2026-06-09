@@ -31,10 +31,12 @@ I'm a **Backend-Focused Software Engineer** from Bangladesh 🇧🇩 — passion
 
 Currently focused on improving **problem-solving skills**, building real-world backend systems, and growing toward **full-stack + DevOps roles**.
 
-```text
-🔭 Building    →  Helper_xyz — Local service marketplace platform
-🌱 Learning    →  System Design • Backend Architecture • DevOps & Cloud
-🧠 Practicing  →  Competitive Programming (Codeforces, LeetCode, CodeChef)
-🏆 Achievements→  ICPC Regionalist 2024
-⚡ Fun fact    →  I love solving problems under pressure (but still improving contest mindset 😄)
+## 👋 About Me
+
+* 💻 Backend-focused Software Engineer passionate about building scalable and high-performance applications
+* 🧠 Strong foundation in **Data Structures, Algorithms, Database Design & System Architecture**
+* ⚡ Experienced with **Node.js, NestJS, Express.js, Next.js, FastAPI**
+* 🏆 Competitive Programmer (2000+ solved problems across platforms)  
+* 📍 Dhaka, Bangladesh 🇧🇩
+
 
