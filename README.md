@@ -19,13 +19,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShantoOBS.ShantoOBS" />
 </div>
 
+ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250"/>
+
+ 
+
 <h1 align="center">
  Hey there! I'm Shanta Shil 👋
 </h1>
-
-<!-- <div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <div style="flex: 1; min-width: 280px;">
+ 
 
 ## 👨‍💻 About Me
 
@@ -35,31 +36,3 @@
 - 🏆 Competitive Programmer (2000+ solved problems across platforms)  
 - 📍 Dhaka, Bangladesh 🇧🇩  
 
-  </div>
-
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250" />
-  </div>
-
-</div> -->
-
-<!--Start Intro-->               
-
-<table>
-  <tr>
-    <td>
-
-## 👨‍💻 About Me
-
-- 💻 Backend-focused Software Engineer passionate about building scalable and high-performance applications  
-- 🧠 Strong foundation in **Data Structures, Algorithms, Database Design & System Architecture**  
-- ⚡ Experienced with **Node.js, NestJS, Express.js, Next.js, FastAPI**  
-- 🏆 Competitive Programmer (2000+ solved problems across platforms)  
-- 📍 Dhaka, Bangladesh 🇧🇩  
-
-  </td>
-  <td>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250"/>
-  </td>
-  </tr>
-</table>
