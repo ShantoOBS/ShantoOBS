@@ -22,7 +22,7 @@
 
 ## 🎯 Focus
 
-- 🔥 Backend Engineering & Clean Architecture for scalable systems design excellence and reliability
+- 🔥 Backend Engineering & Clean Architecture for scalable systems design excellence & reliability
 - 📈 Performance optimization and scalable API design dfsdfdsfdasfdsaf gfdfdfdsfg dsfdfasdgafd .  
 - 🧩 Building real-world, production-ready applications .
 - 🤝 Collaborative software development & AI research for impactful solutions .  
