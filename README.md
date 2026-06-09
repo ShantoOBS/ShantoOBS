@@ -55,3 +55,11 @@
   </td>
   </tr>
 </table>
+
+## 👨‍💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,dart,python,nodejs,express,nestjs,fastapi,react,nextjs,flutter,mysql,postgres,mongodb,firebase,git,linux" />
+</p>
+
+---
