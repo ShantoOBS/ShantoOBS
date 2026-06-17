@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Backend-focused Software Engineer passionate about building **Scalable and High-performance** Application
+- 💻 Full Stack Developer passionate about building **Scalable and High-performance** Application
 - 🧠 Strong foundation in **Data Structures, Algorithms, Database Design & System Architecture**  
 - ⚡ Experienced with **Node.js, NestJS, Express.js, Next.js, FastAPI**  
 - 🏆 Competitive Programmer (2000+ solved problems across platforms)  
