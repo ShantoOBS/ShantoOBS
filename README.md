@@ -39,9 +39,136 @@
 
 ## 👨‍💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,dart,python,nodejs,express,nestjs,fastapi,react,nextjs,flutter,mysql,postgres,mongodb,firebase,git,linux" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,go,python" />
 </p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+</p>
+
+</td>
+
+<td valign="top">
+
+### 🗄️ Data & Messaging
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🧪 Observability & QA
+
+<p>
+<img src="https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Code_Review-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+</p>
+
+</td>
+
+<td valign="top">
+
+### 🔐 Security & Auth
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/RBAC-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### ☁️ DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions,nginx" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+</td>
+
+<td valign="top">
+
+### 🛠️ Build Tools & More
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agile-009FDA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Security-0052CC?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
