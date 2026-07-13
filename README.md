@@ -46,7 +46,7 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,go,python" />
+<img src="https://skillicons.dev/icons?i=js,ts,go,python,c,cpp" />
 </p>
 
 </td>
@@ -106,12 +106,15 @@
 <tr>
 <td valign="top">
 
-### 🧪 Observability & QA
+### 🤖 AI & LLM Technologies
 
 <p>
-<img src="https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Code_Review-0052CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector_Databases-7C3AED?style=for-the-badge"/>
+
 </p>
 
 </td>
@@ -127,6 +130,7 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 </p>
 
 </td>
